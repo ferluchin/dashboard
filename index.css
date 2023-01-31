@@ -1,10 +1,10 @@
 * {
     box-sizing: border-box;
-}    
+}
 
 body {
     margin: 0;
-    background: no-repeat center center fixed; 
+    background: no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -36,7 +36,7 @@ div#crypto {
     font-size: 1.3rem;
 }
 
-div#crypto > p {
+div#crypto>p {
     margin: 0;
 }
 
@@ -46,7 +46,7 @@ div#crypto-top {
     margin-bottom: 5px;
 }
 
-div#crypto-top > span {
+div#crypto-top>span {
     margin-left: 10px;
 }
 
@@ -59,7 +59,7 @@ div#weather {
     margin-top: -20px;
 }
 
-div#weather > img {
+div#weather>img {
     width: 70px;
 }
 
